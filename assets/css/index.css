@@ -1,0 +1,27 @@
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+#codigoDescuentoBackground {
+    background-color: #2c3d4f
+}
+
+#bloque1, #bloque3 {
+    background-color: #f0f0f0;
+}
+
+#bloque2 {
+    background-color: #2ecb70;
+}
+
+#titleCodigo {
+    color: #2c7971;
+}
+
+#terminosYCondiciones {
+    color: #f0d62e;
+}
